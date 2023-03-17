@@ -10,8 +10,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-services">Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-features">Features</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-links">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-desafios">Desafios</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 

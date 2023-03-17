@@ -35,6 +35,15 @@ Aqui estão os serviços utilizados neste projeto.
 - [GitHub](https://github.com/)
 - [Netlify](https://www.netlify.com/)
 
+## 🔥 Desafios
+
+[Paticipe dos desafios](https://boracodar.dev/)
+
+| #    | Name           | Code    | Deploy |
+| :--- | :------------- | :------ | :------|
+| `01` | `Music Player` |  [🧬](https://github.com/claytonfortunato/-BoraCodar/tree/main/music-player) |[👾](https://reliable-unicorn-2ccf84.netlify.app/) |
+| `02` | `Product Card` |  [🧬](https://github.com/claytonfortunato/-BoraCodar/tree/main/product-card) |[👾](https://fancy-gecko-c54685.netlify.app/) |
+
 
 
 ## 💻 Getting started
@@ -71,21 +80,6 @@ npm run build
 ```
 npm run start
 ```
-
-## 🔥 Características
-
-Aqui estão as principais características do projeto.
-
-- Responsive layout.
-- Contém os seguintes desafios:
-  - Music Player
-  - Product Card
-  - Buttons and Cursors
-
-## 📎 Links
-
-- Deploy on 
-- Repository:
 
 ## :memo: License
 

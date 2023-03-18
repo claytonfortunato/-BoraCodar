@@ -39,7 +39,7 @@ O Product card é um componente que simula um card de comprar,e que possa verifi
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [Figma](https://www.figma.com/file/nvUOveOeovNkzDCevOXyJa/%23boraCodar---Desafio-1-(Community)?node-id=0%3A1&t=RHeCJAibFxt69vs1-0). 
+Você pode visualizar o layout do projeto através [Figma](https://www.figma.com/file/42ouXKjcLu69KRQeLv5uz2/%23boraCodar---Desafio-2-(Community)?t=zk0Ybpjzq3S9uuNC-0). 
 
 ## :memo: Licença
 

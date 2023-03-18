@@ -22,7 +22,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   
 ## 👾 Deploy
 
-[Music-Player](https://github.com/claytonfortunato/-BoraCodar/tree/main/music-player)
+[Music-Player](https://reliable-unicorn-2ccf84.netlify.app)
 
 ## 🚀 Tecnologias
 

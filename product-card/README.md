@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Player de Música é um componente que simula um reprodutor musical de forma padrão.
+O Product card é um componente que simula um card de comprar,e que possa verificar a imagem.
 
 ## 🔖 Layout
 
